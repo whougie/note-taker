@@ -79,7 +79,7 @@ app.post('/api/notes', async (req, res) => {
     
     
     app.listen(PORT, () => {
-      console.log("Now listening at http://localhost:3001");
+      console.log("Now listening at http://localhost:"+PORT);
     })
     
     
