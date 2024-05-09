@@ -13,13 +13,13 @@ GitHub URL - https://github.com/whougie/note-taker.git
 ## Usage
 
 Create a new note by typing in a title and a description of the task and click on the "Save Note". 
-![alt text](image.png)
+![alt text](./public/assets/images/image.png)
 
 Clicking on the note on the left side will display the note in the note section.
-![alt text](image-1.png)
+![alt text](./public/assets/images/image-1.png)
 
 To delete the the note, you can click on the trash can icon to delete the note.
-![alt text](image-2.png)
+![alt text](./public/assets/images/image-2.png)
 
 To clear a form you can click the clear button to clear out the title and text.
-![alt text](image-3.png)
+![alt text](./public/assets/images/image-3.png)
